@@ -209,6 +209,7 @@ The `Matrix` class provides a comprehensive representation of matrices and inclu
 - **Usage**: `Matrix.identity(n)`
 - **Example**:
   id_matrix = Matrix.identity(3)
+  
   print(id_matrix)  # Outputs: Matrix([[1, 0, 0], [0, 1, 0], [0, 0, 1]])
 
 ## Transpose (`transpose`)
