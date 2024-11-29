@@ -208,10 +208,10 @@ The `Matrix` class provides a comprehensive representation of matrices and inclu
 - Returns the identity matrix of size `n`.
 - **Usage**: `Matrix.identity(n)`
 - **Example**:
-  \\python
+  \\\\python
   id_matrix = Matrix.identity(3)
   print(id_matrix)  # Outputs: Matrix([[1, 0, 0], [0, 1, 0], [0, 0, 1]])
-  \\
+  \\\\
 
 ## Transpose (`transpose`)
 - Returns the transpose of the matrix.
